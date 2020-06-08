@@ -1,0 +1,37 @@
+# teacher --------------------------------
+/teacher/node_modules
+# Editor directories and files
+/teacher/.idea
+/teacher/.vscode
+/teacher/*.suo
+/teacher/*.ntvs*
+/teacher/*.njsproj
+/teacher/*.sln
+/teacher/*.sw?
+# Log files
+/teacher/npm-debug.log*
+/teacher/yarn-debug.log*
+/teacher/yarn-error.log*
+/teacher/pnpm-debug.log*
+
+/teacher/dist
+/teacher/public/server/node_modules
+#Electron-builder output
+/teacher/dist_electron
+# teacher end -----------------------------
+
+# manager
+/manager/server/node_modules
+# Editor directories and files
+/manager/server/.idea
+/manager/server/.vscode
+/manager/server/*.suo
+/manager/server/*.ntvs*
+/manager/server/*.njsproj
+/manager/server/*.sln
+/manager/server/*.sw?
+# Log files
+/manager/server/npm-debug.log*
+/manager/server/yarn-debug.log*
+/manager/server/yarn-error.log*
+/manager/server/pnpm-debug.log*

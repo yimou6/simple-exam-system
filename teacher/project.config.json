@@ -1,0 +1,6 @@
+{
+  "name": "DA CONG MING EXAM SYSTEM",
+  "version": "1.0.0",
+  "serve_file": "server/index.js",
+  "manger_api": "http://localhost:3003"
+}
